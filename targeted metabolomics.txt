@@ -1,0 +1,186 @@
+Name	HMDBID	KeggID	Class
+Pyruvic acid	HMDB00243	C00022	Organic Acids
+Phenol	HMDB00228	C00146	Phenols
+L-Lactic acid	HMDB00190	C00186	Organic Acids
+Alpha-Hydroxyisobutyric acid	HMDB00729	NA	NA
+Glycolic acid	HMDB00115	C00160	Organic Acids
+Caproic acid	HMDB00535	C01585	Fatty Acids
+L-Alanine	HMDB00161	C00041	Amino Acid
+Alpha-ketoisovaleric acid	HMDB00019	C00141	Amino Acid
+2-Hydroxybutyric acid	HMDB00008	C05984	Amino Acid
+Oxalic acid	HMDB02329	C00209	Organic Acids
+Sarcosine	HMDB00271	C00213	Amino Acid
+2-Hydroxy-3-methylbutyric acid	HMDB00407	NA	Organic Acids
+L-Alpha-aminobutyric acid	HMDB00452	C02356	Amino Acid
+Phenylacetaldehyde	HMDB06236	C00601	aldehydes
+Malonic acid	HMDB00691	C00383	Organic Acids
+Methylmalonic acid	HMDB00202	C02170	Organic Acids
+L-Valine	HMDB00883	C00183	Amino Acid
+Hydroxyurea	HMDB15140	C07044	Amino Acid
+Norvaline	HMDB13716	C01799	NA
+Urea	HMDB00294	C00086	Amino Acid
+Benzoic acid	HMDB01870	C00180	Organic Acids
+Caprylic acid	HMDB00482	C06423	Fatty Acids
+Ethanolamine	HMDB00149	C00189	Alkylamines
+Glycerol	HMDB00131	C00116	Alcohols
+DL_O_Phosphoserine	HMDB01721	C01005	Amino Acid
+Phosphoric acid	HMDB02142	C00009	Phosphate
+L-Alloisoleucine	HMDB00557	NA	Amino Acid
+L-Isoleucine	HMDB00172	C00407	Amino Acid
+L-Proline	HMDB00162	C00148	Amino Acid
+Glycine	HMDB00123	C00037	Amino Acid
+Succinic acid	HMDB00254	C00042	Organic Acids
+Picolinic acid	HMDB02243	C10164	Organic Acids
+Glyceric acid	HMDB00139	C00258	Organic Acids
+Uracil	HMDB00300	C00106	Nucleotide
+Fumaric acid	HMDB00134	C00122	Organic Acids
+L-Serine	HMDB00187	C00065	Amino Acid
+Pelargonic acid	HMDB00847	C01601	Fatty Acids
+Indoxyl sulfate	HMDB00682	NA	Indoles
+Pipecolic acid	HMDB00070	C00408	Amino Acid
+L-Threonine	HMDB00167	C00188	Amino Acid
+L_Allothreonine	HMDB04041	C05519	Amino Acid
+4_Methylcatechol	HMDB00873	C06730	Phenols
+3-Pyridylacetic acid	HMDB01538	NA	Organic Acids
+Glutaric acid	HMDB00661	C00489	Organic Acids
+Hydrocinnamic_acid	HMDB00764	C05629	Organic Acids
+Beta-Alanine	HMDB00056	C00099	Amino Acid
+Erythronic acid	HMDB00613	NA	NA
+Benzamide	HMDB04461	C09815	Alkylamines
+L-Homoserine	HMDB00719	C00263	Amino Acid
+Capric acid	HMDB00511	C01571	Fatty Acids
+Oxalacetic_acid	HMDB00223	C00036	Organic Acids
+Mandelic_acid	HMDB00703	C01984	NA
+Malic_acid	HMDB00744	C00711	Organic Acids
+L-Malic acid	HMDB00156	C00149	Organic Acids
+Dihydrouracil	HMDB00076	C00429	Nucleotide
+Erythritol	HMDB02994	C00503	Carbohydrates
+D-Threitol	HMDB04136	C16884	Carbohydrates
+L-Aspartic acid	HMDB00191	C00049	Amino Acid
+L-Methionine	HMDB00696	C00073	Amino Acid
+2-Phenylglycine	HMDB02210	NA	Amino Acid
+Pyrrolidonecarboxylic_acid	HMDB00805	C02237?	NA
+cis-4-Hydroxy-L-proline	HMDB06055	C01015	Amino Acid
+Gamma-Aminobutyric acid	HMDB00112	C00334	Amino Acid
+Nornicotine	HMDB01126	C06524	NA
+L-Cysteine	HMDB00574	C00097	Amino Acid
+Ortho_Hydroxyphenylacetic_acid	HMDB00669	C05852	Organic Acids
+Hydroxypropionic acid	HMDB00700	C01013	Organic Acids
+Pimelic acid	HMDB00857	C02656	Organic Acids
+3_Hydroxyphenylacetic_acid	HMDB00440	C05593	Organic Acids
+L-Arginine	HMDB00517	C00062	Amino Acid
+L-Glutamic acid	HMDB00148	C00025	Amino Acid
+Deoxyuridine	HMDB00012	C00526	Nucleotide
+L-Phenylalanine	HMDB00159	C00079	Amino Acid
+5_Aminopentanoic_acid	HMDB03355	C00431	Amino Acid
+D-Xylose	HMDB00098	C00181	Carbohydrates
+p_Hydroxyphenylacetic_acid	HMDB00020	C00642	Organic Acids
+4_Hydroxy_3_methoxybenzenemethanol	HMDB32012	C06317	Phenols
+Dodecanoic acid	HMDB00638	C02679	Fatty Acids
+Oxoadipic_acid	HMDB00225	C00322	NA
+L-Arabinose	HMDB00646	C00259	Carbohydrates
+N-Acetyl-L-aspartic acid	HMDB00812	C01042	Amino Acid
+Homocysteine	HMDB00742	C00155	Amino Acid
+L-Asparagine	HMDB00168	C00152	Amino Acid
+Taurine	HMDB00251	C00245	Organic Acids
+D-Ribose	HMDB00283	C00121	Carbohydrates
+N_Formyl_L_methionine	HMDB01015	C03145	Amino Acid
+Suberic acid	HMDB00893	C08278	Organic Acids
+D-Xylitol	HMDB02917	C00379	Carbohydrates
+Aminoadipic acid	HMDB00510	C00956	Amino Acid
+D_Arabitol	HMDB00568	C01904	Carbohydrates
+L-Arabitol	HMDB01851	C00532	Carbohydrates
+Ribitol	HMDB00508	C00474	Carbohydrates
+Rhamnose	HMDB00849	C00507	Carbohydrates
+L-Fucose	HMDB00174	C01019	Carbohydrates
+cis_Aconitic_acid	HMDB00072	C00417	Organic Acids
+Glycerol 3-phosphate	HMDB00126	C00093	Lipids
+Vanillic_acid	HMDB00484	C06672	Organic Acids
+L-Glutamine	HMDB00641	C00064	Amino Acid
+O-Phosphoethanolamine	HMDB00224	C00346	Lipids
+Terephthalic_acid	HMDB02428	C06337	Organic Acids
+Azelaic acid	HMDB00784	C08261	Organic Acids
+3-Phosphoglyceric acid	HMDB00807	C00597	Carbohydrates
+Hippuric acid	HMDB00714	C01586	Organic Acids
+1-Methylhistidine	HMDB00001	C01152	Amino Acid
+Hypoxanthine	HMDB00157	C00262	Nucleotide
+Citric acid	HMDB00094	C00158	Organic Acids
+Ornithine	HMDB00214	C00077	Amino Acid
+p_Synephrine	HMDB04826	C04548	Lipids
+Citrulline	HMDB00904	C00327	Amino Acid
+Myristoleic acid	HMDB02000	C08322	Fatty Acids
+Indoxyl	HMDB04094	C05658	Indoles
+Myristic acid	HMDB00806	C06424	Fatty Acids
+Methionine sulfoxide	HMDB02005	NA	Amino Acid
+L-Sorbose	HMDB01266	C08356	Carbohydrates
+D-Fructose	HMDB00660	C02336	Carbohydrates
+Gluconolactone	HMDB00150	C00198	Carbohydrates
+Allantoin	HMDB00462	C01551	Nucleotide
+1H_Indole_3_acetamide	HMDB29739	C02693	Indoles
+D-Galactose	HMDB00143	C00984	Carbohydrates
+D-Mannose	HMDB00169	C00159	Carbohydrates
+Hydroxyphenyllactic acid	HMDB00755	C03672	Organic Acids
+D-Glucose	HMDB00122	C00031	Carbohydrates
+L-Histidine	HMDB00177	C00135	Amino Acid
+L-Lysine	HMDB00182	C00047	Amino Acid
+Mannitol	HMDB00765	C00392	Carbohydrates
+Theophylline	HMDB01889	C07130	Nucleotide
+Sorbitol	HMDB00247	C00794	Carbohydrates
+L-Tyrosine	HMDB00158	C00082	Amino Acid
+4_Pyridoxic_acid	HMDB00017	C00847	Vitamin
+4-Hydroxycinnamic acid	HMDB02035	C00811	Organic Acids
+D-Glucuronic acid	HMDB00127	C00191	Carbohydrates
+Ascorbic acid	HMDB00044	C00072	Vitamin
+Pentadecanoic acid	HMDB00826	C16537	Fatty Acids
+Indoleacetic acid	HMDB00197	C00954	Indoles
+Paraxanthine	HMDB01860	C13747	Nucleotide
+Gluconic acid	HMDB00625	C00257	Carbohydrates
+Guanidinosuccinic acid	HMDB03157	C03139	Organic Acids
+Palmitoleic acid	HMDB03229	C08362	Fatty Acids
+Palmitic acid	HMDB00220	C00249	Fatty Acids
+5-Hydroxylysine	HMDB00450	C16741	Amino Acid
+N_Acetyl_D_glucosamine	HMDB00215	C00140	Carbohydrates
+3-Indolepropionic acid	HMDB02302	NA	Indoles
+Dopamine	HMDB00073	C03758	Phenols
+Myoinositol2	HMDB00211	C00137	Alcohols
+Uric acid	HMDB00289	C00366	Organic Acids
+Guanine	HMDB00132	C00242	Nucleotide
+Heptadecanoic acid	HMDB02259	NA	Fatty Acids
+Indolelactic acid	HMDB00671	C02043	Indoles
+L-Kynurenine	HMDB00684	C00328	Amino Acid
+Gamma_Linolenic_acid	HMDB03073	C06426	NA
+Linoleic acid	HMDB00673	C01595	Fatty Acids
+L-Tryptophan	HMDB00929	C00078	Amino Acid
+Alpha_Linolenic_acid	HMDB01388	C06427	Fatty Acids
+Petroselinic acid	HMDB02080	C08363	Organic Acids
+Oleic acid	HMDB00207	C00712	Fatty Acids
+Elaidic acid	HMDB00573	C00712	Fatty Acids
+Vaccenic acid	HMDB03231	C08367	NA
+Stearic acid	HMDB00827	C01530	Fatty Acids
+L-Cystine	HMDB00192	C00491	Amino Acid
+Glucose 6-phosphate	HMDB01401	C00092	Carbohydrates
+Nonadecanoic acid	HMDB00772	C16535	Fatty Acids
+Arachidonic acid	HMDB01043	C00219	Fatty Acids
+6_Phosphogluconic_acid	HMDB01316	C00345	Carbohydrates
+Uridine	HMDB00296	C00299	Nucleotide
+Arachidic acid	HMDB02212	C06425	Fatty Acids
+Serotonin	HMDB00259	C00780	Indoles
+Docosahexaenoic acid	HMDB02183	C06429	Fatty Acids
+Inosine	HMDB00195	C00294	Nucleotide
+Deoxyadenosine	HMDB00101	C00559	Nucleotide
+Adenosine	HMDB00050	C00212	Nucleotide
+Sucrose	HMDB00258	C00089	Carbohydrates
+Behenic acid	HMDB00944	C08281	Fatty Acids
+Xanthosine	HMDB00299	C01762	Nucleotide
+Alpha-Lactose	HMDB00186	C00243	Carbohydrates
+Estradiol	HMDB00151	C00951	Lipids
+Cellobiose	HMDB00055	C06422	Carbohydrates
+Spermine	HMDB01256	C00750	Alkylamines
+D-Maltose	HMDB00163	C00208	Carbohydrates
+MG182	HMDB11568	NA	Lipids
+MG181	HMDB11567	NA	Lipids
+Deoxyguanosine	HMDB00085	C00330	Nucleotide
+Maltitol	HMDB02928	NA	Carbohydrates
+Tetracosanoic acid	HMDB02003	C08320	Fatty Acids
+Alpha-Tocopherol	HMDB01893	C02477	Vitamin
+Cholesterol	HMDB00067	C00187	Lipids
